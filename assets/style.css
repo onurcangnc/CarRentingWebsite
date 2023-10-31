@@ -1,0 +1,9 @@
+nav {
+    background: #3c5856;
+}
+
+body {background-color: #dadbd4};
+
+nav > navbar-toggler{
+    background-color: white;
+}
